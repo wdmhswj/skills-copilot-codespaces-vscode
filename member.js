@@ -1,0 +1,37 @@
+function skillsMember() {
+  let skills = [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "MongoDB",
+    "Express.js",
+    "Python",
+    "Django",
+    "Flask",
+    "Ruby",
+    "Ruby on Rails",
+    "Angular",
+    "Vue.js",
+    "PHP",
+    "Laravel",
+    "Java",
+    "Spring",
+    "C#",
+    "ASP.NET",
+    "C++",
+    "Swift",
+    "Kotlin",
+    "SQL",
+    "Git",
+    "Docker",
+    "Kubernetes",
+    "Jenkins",
+    "AWS",
+    "Azure",
+    "Google Cloud",
+  ];
+
+  return skills;
+}
